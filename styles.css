@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+#main{
+	width: 100%;
+	height: 100%;
+	border-style:double;
+	
+}
+#table2{
+	border:1px solid black;
+}
+th,td{
+	border:1px solid black;
+}
